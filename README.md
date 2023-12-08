@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SupriyaP-05
-- 👀 I’m interested in Javascript, CSS, Vue js, React Js & Bootstrap.
+- 👀 I’m interested in Javascript, CSS, Vue js, React Js, Redux,Material UI & Bootstrap.
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on React js & Vue Js
 - 📫 How to reach me supriyapatil509@gmail.com
